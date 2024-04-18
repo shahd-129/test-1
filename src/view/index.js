@@ -1,0 +1,6 @@
+export {default as Home} from './Home'
+export {default as Cart} from './Cart'
+export {default as About} from './About'
+export {default as List} from './List'
+export {default as Categoris} from './Categoris'
+export {default as Portfolio} from './Portfolio'
