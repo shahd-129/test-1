@@ -1,7 +1,7 @@
 import React from 'react'
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import Layout from '../componet/Layout'
-import {Home , Categoris , About , Portfolio , List ,  Cart} from '../view'
+import {Home , Categoris , About , Portfolio , List ,  Cart} from 'view'
 
 export default function index() {
   
