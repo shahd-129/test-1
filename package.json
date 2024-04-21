@@ -1,7 +1,7 @@
 {
   "name": "test-3",
   "version": "0.1.0",
-  "homepage": "https://shahd-129.github.io/test-1",
+  "homepage": "https://shahd-129.github.io",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",
